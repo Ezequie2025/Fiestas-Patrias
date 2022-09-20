@@ -1,0 +1,46 @@
+body{
+    background-image: url(Pabellon\ Nacional.jpg);
+}
+
+.Titulo{
+    text-align: center;
+    background-color: white;
+    border-style: double;
+    border-radius: 10px;
+    margin-left: 300px ;
+    margin-right: 300px;
+
+}
+
+.style .cr h2{
+    text-align: center;
+    background-color: lavender;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.style .cr p{
+    background-color: rgb(8, 170, 211);
+    font-style: italic;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+
+.style .cr img{
+    width: 500px;
+
+}
+
+.style .back a{
+    display: block;
+    width: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: cadetblue;
+    border-radius: 10px;
+    padding: 20px;
+    color: azure;
+    text-decoration: none;
+}
